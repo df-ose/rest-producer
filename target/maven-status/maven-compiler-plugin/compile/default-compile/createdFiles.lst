@@ -1,0 +1,6 @@
+com/usuarios/data/Datos$DatosBuilder.class
+com/usuarios/data/Datos.class
+com/usuarios/controller/Usercontroller.class
+com/usuarios/RestProductorApplication.class
+com/usuarios/custompartitioner/Ciudades.class
+com/usuarios/producer/Productor.class

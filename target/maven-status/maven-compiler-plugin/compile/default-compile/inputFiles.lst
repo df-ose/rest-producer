@@ -1,0 +1,5 @@
+/config/proyectos/rest-productor-example/src/main/java/com/usuarios/data/Datos.java
+/config/proyectos/rest-productor-example/src/main/java/com/usuarios/custompartitioner/Ciudades.java
+/config/proyectos/rest-productor-example/src/main/java/com/usuarios/producer/Productor.java
+/config/proyectos/rest-productor-example/src/main/java/com/usuarios/controller/Usercontroller.java
+/config/proyectos/rest-productor-example/src/main/java/com/usuarios/RestProductorApplication.java
